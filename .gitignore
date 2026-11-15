@@ -1,0 +1,16 @@
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.zip
